@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.2",
+  "Version": "3.3.3",
   "MinVersion": "3.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.2/BarkodX_Setup_v3.3.2.msi",
-  "PackageSha256": "6F6A17F1AD28337B4B2556594AFA2DFA5658FC10CF43969C653E68221AC25074",
-  "PackageSizeBytes": 172541486,
-  "ReleaseDate": "2026-10-16T13:34:21.3071404+00:00",
-  "ReleaseNotes": "Performans, kararlilik ve otomatik yazilim guncelleme iyilestirmeleri.",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.3/BarkodX_Setup_v3.3.3.msi",
+  "PackageSha256": "8BF70B52B82E8E6EE320F07E3B545C8536E51FCA99FCF1A20E3900FF58ED1121",
+  "PackageSizeBytes": 165896821,
+  "ReleaseDate": "2026-10-16T14:04:15.0285173+00:00",
+  "ReleaseNotes": "Kasa (POS) tam ekran sistem guncelleme ilerleme ekrani ve performans iyilestirmeleri.",
   "RequiresDbMigration": false,
-  "Signature": "e2LrA4h5OaoCkbZQdDflZGYfjsfQYx7\u002B013yrw/i/o90M6FdM5eCWVoRV9b1E1TE9cqC5dnXZEU8uoj5b/OEDtKoVmvernrbK9JhqwB34T9p4oyXJuCxxZsZihFr\u002BrDqb1ev0MaxTlQlDOklZn1yLDUxZaMc8cN4hKfnbLI3\u002BwRcc6zzvpdFiSmSX7ATohwVHzs\u002By1lGvejotbybOxkHhJ8Jbxd6N\u002B2Mmk0yvpBakhmRtDe9HHdsjbpIGmsJrlTZFFqYlXbPgz\u002BjasAP1iwZGtIt3bL9kFq0POFSK/F9wqcVx0/AK\u002B7I0gBdU2dfDR23Knbc53l1xHc7rmCgMZD7ovlR4BJjGIDjcR3J1zRsStfwAe/A35nf6x030pSVgQwdKsCIXbqtTKvAmjPTgoO/3Sm1xC4TJmWMPcZrvoErKjnfKO3rkp4rIRByvDlIAOQuSXJqer52trIi7thiMtV5VhektWDo9G7lmbVMMKtlu\u002BJ/eTR9XCqZD\u002BnbtO8bhfkKdmkXXWrsEJIcewNzC9cchUYCwHEVIukgCphjK3pmbm\u002BcIENEQj168gx\u002BjGuLsZdjUJoeqOuYIeatiPO3vY/8jSWS2rozNh4oY0kMRxnylj0ekRzZiTOafX7mcdR3Gq5JhGsvLJGgn5gjpLzZWy6WT9WpNH2sJqlMBCkEu2wrRlc="
+  "Signature": "Gd6C5lTbLamIlR57ykP90cdPHOMQLb\u002B1HNzhPJjpiLX3\u002BlbZqhHKsecSsGV1G4iLgbsK4ltmZ2yDgr8W4e/kaTd2DSgalu3TOhxgNGBv1AtTzXjgXjRXrlFtS\u002BxkMj4h8uzvFtrJm/wCI8cDUnJ6W94Pq0TyINrf\u002BXdDTJtqISNlvyIrojieRUV34IoHQO9FjiSaY7i/O2bakHMPoZQDawGcKrRVFmoQ3GVGRHJrq9nZEcfRoEEdthp7o3CtwJLzIshSXroYa1TBA9E/EP6kmCFpMFV3YFdzG0ngaUdCF2USUnBIUFZheRAcY6s24deHsnxYFuLMM\u002BuCnhC5xNI/VCfROa/YdUkseOs\u002BV1REEJWT9fnYG98aT07kMadkIWjQSel/KJv3DK9SYfnR0Rp6jH1Y\u002BQO2nBTeK4OvNGap6bnwnPli58OhlkD\u002BbHOI8mBQQw2WyJfiVgKc1hLK6BFpoMUK03RiHV9CBUIMN9H0tMLxzUyjGmma3RSn8w1xhqIEuRZGZJwoksSqDflmi0g0BlseiVyvWUZTCVwdl7qnX9gRa6GPCIgXxKKqCxURG75P7naYUqbpCpAGIFeDaUTg\u002BlXGCna66lIvX3/0UjJvNr2lLGUfO4lqofrJphDe2Wz6GD8NpYQUAhSE3Jlr8ax\u002Bu0ZnL42HfyISG5RL8XXwWq8="
 }

@@ -2,10 +2,10 @@
   "Version": "3.3.2",
   "MinVersion": "3.0.0",
   "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.2/BarkodX_Setup_v3.3.2.msi",
-  "PackageSha256": "FA764AD2C7A6E27914E0690BB95467B0355759AAC697BDD84B338FD105E08786",
-  "PackageSizeBytes": 161777506,
-  "ReleaseDate": "2026-10-16T12:32:10.5140332+00:00",
+  "PackageSha256": "BE0B60C2E5936C8EBFDE0E05BFB315F72630823A4E7A9C790B961E012C356858",
+  "PackageSizeBytes": 172549678,
+  "ReleaseDate": "2026-10-16T12:41:38.3746796+00:00",
   "ReleaseNotes": "Tek tikla otomatik guncelleme (canli hiz, yuzde ve 4 asamali ilerleme ekrani), Genel Bakis ve Bildirim/E-posta entegrasyonu, yerel SSL sertifika guveni.",
   "RequiresDbMigration": false,
-  "Signature": "li2hoJuA\u002BZ/zQfQL0QiBELIe9/zLC1x1i1RmTrpG33h/\u002Bjwcw8pJvFn\u002BNFXcckONZNACxWvvKJQwuCRLFDrYdT0IhHg8IgEz\u002BEN7G9WcDg6Ku3qxluhZx\u002BmROtnI\u002BOC37/VcngAkeD9Bl/XFm3o7oE0xdjiTlbefksthT1fFNti1vwqUrkeM5AlbimXv/lZKl8szRQQJGN60SzBoM1ivfjPWh\u002BwCr3DZEmjnMhjmBV6j61FiZDZQBNHRbgsrxAO/fkT/ZTZabbtyV1v\u002BOlo/qH6NLRPBxoHu3ipTyg8yBSXeEnwUVNwBxrWqmeu4BYOa7UffwsqvBzdrPuNOkuiC5XdZAPfWMqc2ttHBUG7v\u002BpZMg6kLfe70LrIQhyxxrSYvh5ylNVKSJV3QwA7oHnQx1F3kHnHRwkNQjUwqxYCvxcBBKY7KbvR0bEvN\u002B7FSbhYfMf\u002BURJOfu1rC221sLEHxzmjwcNBo/rePlEf7GkJfUpmaT4BUJx4tNjhICQfSW4nux5cwWz7O6Jgk1HYs3852l1AxIej2u6SWTlXJwaMUqVYC5gz8QIJg67uPXtx38A6vRdM6B8728xG298gTyNloN5e96VtEBgLZiTSQOy0dXZOA9HGjQ0QqpF4dcohKcjOxWSpJGDFpyKPSJ/tf23MnmSpLDIkZ4cZLkPvovuyx25g="
+  "Signature": "NmqIz8YiOUDMIUF0ZrVjgihi4Uhkcat7Wc8XScTiXHeHD7xzgcJDVNbCUlSZKqnfb8/87T0/pWLroHQT2HUV5Y5HOultyqv7nfzhI6pI5uhxC1yLUCCbFhotFy8zraGxtm4NBKCZ/xShPfzh07G3DDZW/N6xKREszsFWHhDEC4k0tR/Ly\u002BD7wBXBaHPM3TUmpQp\u002Bqm3eJuY1q3GYwxUWOMBYupLEFfMfRv8JDYUFYcieFUtb8D3EJBnoQz\u002BmgKan1DnkMQKI\u002BHoqKBaPbX6arf6aJhunMzh\u002BjVBaXTdFWtCt\u002BR3mOPVDDSIPw7DKUT5JZx1QDhfs8YcLF5t5zUqowaEwFmylnRjhUecbsbk6G2XgoW9sIwnrSCO2xo1BZnkzenKuGUOkQIgIDsFSRnJv46ohrGYqFWZydjJPFpaySdxAXxUrNzxNfVKZJ0cFLPvZcwyI6MJv3n9O4hN5vffpzPriv1UW9JzNolJCv8mHxNVRWKdRhZMqCmAob0h6iY8tmO4IJR8yVm\u002BxYuE72UzXBBMm6mH8BG4jh0G7CptMN0mB00vvtHN3K4HYu1xx1ka0362edfxo8B72AsQVr9Kw2dHbDiXnTs4jidzivjxt2XgtyzvAy6X0vLTcbJ7UobnnZnKvDs3FwfiwE/8zkHLK5MRpj9BId5b7C4WUb07WNXc="
 }

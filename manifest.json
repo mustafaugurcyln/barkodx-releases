@@ -2,10 +2,10 @@
   "Version": "3.3.2",
   "MinVersion": "3.0.0",
   "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.2/BarkodX_Setup_v3.3.2.msi",
-  "PackageSha256": "BE0B60C2E5936C8EBFDE0E05BFB315F72630823A4E7A9C790B961E012C356858",
-  "PackageSizeBytes": 172549678,
-  "ReleaseDate": "2026-10-16T12:41:38.3746796+00:00",
-  "ReleaseNotes": "Tek tikla otomatik guncelleme (canli hiz, yuzde ve 4 asamali ilerleme ekrani), Genel Bakis ve Bildirim/E-posta entegrasyonu, yerel SSL sertifika guveni.",
+  "PackageSha256": "14300EAC6333D9DEDB82782544EAD214160868D9B5AB8097C7452624B42CFCA1",
+  "PackageSizeBytes": 172557870,
+  "ReleaseDate": "2026-10-16T13:01:35.5513114+00:00",
+  "ReleaseNotes": "Performans, kararlilik ve otomatik yazilim guncelleme iyilestirmeleri.",
   "RequiresDbMigration": false,
-  "Signature": "NmqIz8YiOUDMIUF0ZrVjgihi4Uhkcat7Wc8XScTiXHeHD7xzgcJDVNbCUlSZKqnfb8/87T0/pWLroHQT2HUV5Y5HOultyqv7nfzhI6pI5uhxC1yLUCCbFhotFy8zraGxtm4NBKCZ/xShPfzh07G3DDZW/N6xKREszsFWHhDEC4k0tR/Ly\u002BD7wBXBaHPM3TUmpQp\u002Bqm3eJuY1q3GYwxUWOMBYupLEFfMfRv8JDYUFYcieFUtb8D3EJBnoQz\u002BmgKan1DnkMQKI\u002BHoqKBaPbX6arf6aJhunMzh\u002BjVBaXTdFWtCt\u002BR3mOPVDDSIPw7DKUT5JZx1QDhfs8YcLF5t5zUqowaEwFmylnRjhUecbsbk6G2XgoW9sIwnrSCO2xo1BZnkzenKuGUOkQIgIDsFSRnJv46ohrGYqFWZydjJPFpaySdxAXxUrNzxNfVKZJ0cFLPvZcwyI6MJv3n9O4hN5vffpzPriv1UW9JzNolJCv8mHxNVRWKdRhZMqCmAob0h6iY8tmO4IJR8yVm\u002BxYuE72UzXBBMm6mH8BG4jh0G7CptMN0mB00vvtHN3K4HYu1xx1ka0362edfxo8B72AsQVr9Kw2dHbDiXnTs4jidzivjxt2XgtyzvAy6X0vLTcbJ7UobnnZnKvDs3FwfiwE/8zkHLK5MRpj9BId5b7C4WUb07WNXc="
+  "Signature": "Ise43Kz7zKjyrZFudalmgT6fuZqcLY5Z2uTsCKhoCVcum2dD6mCaYAviivgTmgYbRsjKoagnnVMFXRxwNkOgl4hYuGFg9ns6g/BiilEj4YprnRQ/I5L6SCE5DKtT8U5zp/h0zKZ3SCZtRS2Oa7C/40is5IpSQftp\u002B58Ea/KeIS1S3OoiRl2PG8mk5X86KXl70vEYcfNQwULxpzVrTOO3krnvVi6dhMFh4HeaK7G0VZJ0ACrhGQDO0zLbnubJjaxaF8raqcNcLO/lrgyNxWhao7DcsJqOmmWessr8OWRyJe5d3LPG7/Kyb8n33S/4eUXJUXfnrQ40Vd0VU6Nmxs1iT3C1L35gc22xgb3PuIHBGO6H7YSzt4hVJF1qGwFphTPbmm3l0bFkPRtMUpUqCTATdkDPggJKYUBOWbZ4hLBRGL3ZsF\u002BcoJawzw/a\u002Bo3wKw2jton\u002ByaEi9ra\u002Bbi7Go7Hwy8uWEE/u5iBtsz8aVT8EdhtODfc6a7xqiY9xlMxW1d5kxNapmOeHO4eZ3gu16VF\u002BkRbZvR13jtzLSewppK6SRqHs9vckWXBAaz3h4dI8xfSaBmecSE0c8WQ4es3LJpqLaD5PJvVFNn3V7EvoVKT8HQXjMUUM9i1\u002BwAINz2zyOUvQ2XjTV7RBRebVO0rGGdpI3gbnx0m2hOxm0HbJB6Nd4Ww="
 }

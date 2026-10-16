@@ -1,0 +1,11 @@
+{
+  "Version": "3.3.2",
+  "MinVersion": "3.0.0",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.2/BarkodX_Setup_v3.3.2.msi",
+  "PackageSha256": "20DE429A82F87B777964771D4BBCAB7066B4E6F6F1BABBBD822F87DFD2F82299",
+  "PackageSizeBytes": 162469832,
+  "ReleaseDate": "2026-10-15T20:53:34.9963732+00:00",
+  "ReleaseNotes": "80mm fis kenar bosluklari, uzaktan guncelleme (panel \u002B kasa menusu), guvenlik ve kararlilik iyilestirmeleri.",
+  "RequiresDbMigration": false,
+  "Signature": "vEL7b4INUHIN/Lahcz7sdkSmAbHYCyNY5JDbz2iHDTGvMBeRwxhJnG72A3XdwlQqcGgSqf5wSkSTVVyx5rAPQcIlwDG2NVKUJI04LReORSD/UNSa3/ZzCxh0qIWjj/WmG8\u002B3sKJENcHYwpYziQKAnLsFkfDb78Ix1eMYc9yoo0oZcMx2jzLVCb9yRghOe1LlxfRm4526/X0/2HkQLDhNynj3Yh5pTlj5uaAB\u002B232U/SaxZkhyulMZdye/5EK7bt15lLKaK50Wi5CDPr0LzwMC6VH4zoCap3WMX57kjlhaLHxXOENMMiUxIRDnI5Ll8usrhp9OfrlL6ZXd3ph8XUxjIwvh3xdVmF04wguGVxYg\u002B3Lcelvnqp3CGpo30ydLexAthKqPEg4djyzkSbUUdtDw2N9GQLobMLUqVORsu61T21mfFKWtBS\u002BMc5oH3VX7RVHaKE/BVEyurJBb67NiyDQ3x/fZnG3B1vpKrE3FfUAO9U/q4oMf3FIA887xUBHl0f3ZCYTWvW0lD4jQ3/VjWRacWO8POlsXHBaOvh6u6P4Fgx41dmmrPs/xkaapTR/DK4sHimsJBlhuq8lR5CnUWPqJ9VzMtmHYJjzYUXN9QUtYRLZy9vjXHVEmc30mk8tOv77ga1i3mew6C0w10TFv31JfZuZu75GNdmidP9vuX/H67Q="
+}

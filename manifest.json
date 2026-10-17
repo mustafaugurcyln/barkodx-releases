@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.5",
+  "Version": "3.3.6",
   "MinVersion": "0.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.5/BarkodX_Setup_v3.3.5.msi",
-  "PackageSha256": "E1B51AAF8FE6B2A56AA374E6BCAEA8CAE776A7DF6750C8C2C8ADBEDDB63572F7",
-  "PackageSizeBytes": 162778451,
-  "ReleaseDate": "2026-10-17T11:57:02.3353103+00:00",
-  "ReleaseNotes": "Kasa acilisinda otomatik guncelleme kontrolu (Startup.Overlay)",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.6/BarkodX_Setup_v3.3.6.msi",
+  "PackageSha256": "27B2AFF0358FDF4E454366A9C3E040C23549F8F498926C391875AB7F5A4BD993",
+  "PackageSizeBytes": 162861158,
+  "ReleaseDate": "2026-10-17T13:14:29.2927524+00:00",
+  "ReleaseNotes": "M\u00FC\u015Fteri ekran\u0131 (2. monit\u00F6r / tablet) kurumsal WPF ikizi responsive tasar\u0131m\u0131 ile yenilendi.",
   "RequiresDbMigration": false,
-  "Signature": "S6OQR0A\u002BpTjAUT7qgIDuRcKZ4vdIsUgI8s7r414yN9iLz4qQgP/Kkg1tPNJweJrqH/iiOmO7Ljmv8/wySiMJjqqC0D2NBpEXCQLyheJmcAYCh78aIcIYZFW36zk4ju1rwDZ6C2MZGLkCNeyZOcmWjrT0T3rNGM5Gco\u002B/\u002B\u002B2h/So23E0h5s7Q1jLUwLzOZcuIRqJ4l6IIg2X0EJr4S9RjusnrqMdTquN0AqqeCEFLG2gefdNby3Ip2aUs8ZQJVIhXDbsb6gtdsunA\u002BeBA\u002BlQuuWdPppyEi3i2iimX4jb51x0UUKg8\u002BNAYJ/OvvWkLgiiwLuH4RFgy8puisS7GhavyTHiSwBzkRDIi9\u002B4ruy0rE0bNOPqk\u002BGNA/niX6JqklgyS2piv7QjWbEI2A8G7Mwv/iC6VCtJaUPmJsH88fHWeepEcRD62qYgivfc0NVd2RtJEBh\u002BcimGXhtqYYYjsZLTY0aLVXQPyg9hocw3t/hLdKc1sblM/xdwnIThB3hClfBLO1/oqxxyj3rOYeZjLGKr2vcJrvaoPnv4ApXOnpfL1ztqUlbADPfmcFZBxmEI3CATttUI5/t/u6jejgH4dRH7rNLoba8qgFfGC0PQ5wXY8lVzOW6q/FfIj/Hot4TstlWh1Xg\u002BZSAFvetSOGXTr15OY7TdgpbxoTi\u002B7hcVzKENQufw="
+  "Signature": "kNfxVTrczP9Qmx0qmeJdmZqGo9h9C3KeRpgc\u002Bg6A1J1OtIiIjmdU2Ut99I2Qsj3mApbZawG0\u002BwtREvbrllGFePZkha6beIXq2bf8ed\u002B3\u002Bqqt29swq\u002BsaU9f2BJkMhiG4QH3hhl26G0QCGjcPKoDK8XtbDqp9DFLLpL04oao52imqjWpMEqM1DCMQ8WXJurgSmFu5AdZDrgZjLBEK4m96XNGO6gkJ7LbQLfTdYMYjY82LOPVlMOLjPgW7UsnYRZhWDu4601spRDGg7bRmnFexmdSFxXyKQkKPFunykaaW1ryvylgbq67R/IMLUd6/DKrhdhtEhXoj9VAYJ4\u002BbBEPO4c7G/C35dsv5wPfRI7/850lh6bmne2rGjtUew/GLRMkgoy/l2V0/P2fWZwtFYRrGbj1tf7LQGNWq37v4s5ILV9\u002BN267s3Y33kz1jJNGyD8Bt\u002BY\u002Bpwntl1/DxDrJrI3UPOB4DbV1q9o5ndhg\u002BvFM\u002B4eFg0dYxQPBXC5WAPqAQ5CFh9//YNI\u002BXs2avSXBE9TWAhDht1t8hmwxn6oKLq6SFW7B7JmWh2SK3\u002BE2KsIak2jjxNkwpXrNRD4Tn44twutjkTkVdiCp\u002B81iyNRf7e9qbgSoxWZAboypk9E41wAzqI4wF3ZJGop85h846ilv0WB17k5UlkmNgCwVC1wVR7LqA74M="
 }

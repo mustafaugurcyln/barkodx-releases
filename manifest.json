@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.3",
+  "Version": "3.3.4",
   "MinVersion": "3.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.3/BarkodX_Setup_v3.3.3.msi",
-  "PackageSha256": "8BF70B52B82E8E6EE320F07E3B545C8536E51FCA99FCF1A20E3900FF58ED1121",
-  "PackageSizeBytes": 165896821,
-  "ReleaseDate": "2026-10-16T14:04:15.0285173+00:00",
-  "ReleaseNotes": "Kasa (POS) tam ekran sistem guncelleme ilerleme ekrani ve performans iyilestirmeleri.",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.4/BarkodX_Setup_v3.3.4.msi",
+  "PackageSha256": "B73CD036CA531EC9A617359536FD967B065A271F1BC4D7E622AAB4851D0D59AE",
+  "PackageSizeBytes": 162749779,
+  "ReleaseDate": "2026-10-17T10:49:13.651554+00:00",
+  "ReleaseNotes": "Canli katalog senkronizasyonu (yeni urun, fiyat, ad, hizli tus aninda guncelleme), tablet musteri ekrani, el terminali fiyat/kamera/sayim gelistirmeleri, panel varyant ve mal kabul iyilestirmeleri.",
   "RequiresDbMigration": false,
-  "Signature": "Gd6C5lTbLamIlR57ykP90cdPHOMQLb\u002B1HNzhPJjpiLX3\u002BlbZqhHKsecSsGV1G4iLgbsK4ltmZ2yDgr8W4e/kaTd2DSgalu3TOhxgNGBv1AtTzXjgXjRXrlFtS\u002BxkMj4h8uzvFtrJm/wCI8cDUnJ6W94Pq0TyINrf\u002BXdDTJtqISNlvyIrojieRUV34IoHQO9FjiSaY7i/O2bakHMPoZQDawGcKrRVFmoQ3GVGRHJrq9nZEcfRoEEdthp7o3CtwJLzIshSXroYa1TBA9E/EP6kmCFpMFV3YFdzG0ngaUdCF2USUnBIUFZheRAcY6s24deHsnxYFuLMM\u002BuCnhC5xNI/VCfROa/YdUkseOs\u002BV1REEJWT9fnYG98aT07kMadkIWjQSel/KJv3DK9SYfnR0Rp6jH1Y\u002BQO2nBTeK4OvNGap6bnwnPli58OhlkD\u002BbHOI8mBQQw2WyJfiVgKc1hLK6BFpoMUK03RiHV9CBUIMN9H0tMLxzUyjGmma3RSn8w1xhqIEuRZGZJwoksSqDflmi0g0BlseiVyvWUZTCVwdl7qnX9gRa6GPCIgXxKKqCxURG75P7naYUqbpCpAGIFeDaUTg\u002BlXGCna66lIvX3/0UjJvNr2lLGUfO4lqofrJphDe2Wz6GD8NpYQUAhSE3Jlr8ax\u002Bu0ZnL42HfyISG5RL8XXwWq8="
+  "Signature": "yd6Hh4oBQgIliuVT5h\u002Be2GZ0g6RYuGjWWW/VZPUJEYy5CHw6DCF1OXLXZvoZ9Tbhn8ZnBj6v76t7XgOfZSt9nZStKCHNx8Vv6pS80H/OgWtTnxo50YDHcgt\u002BM3jm72rT2AmSMkNN2\u002Bz8kkpXF6k\u002BXQgRNk4vVoXDmUIcar2zCz3mYGf0fnacebWM43lioIB3rqrCc5UVnmzDRGyJR1FpYxwN7ppPMXfLS7MQQ8a9A5QEEWbDF0V6HoYqE1BQY9fUv38r9MhpnOxVOaR6aj2lYcAA98TjJ1e2\u002BU\u002BVadKoQh8sF93QTxINGEfV0Fbj0b8EfhrRQPDsBILK0P4EVNmb9xda5LR2lB79atgm/mx7rFfR1tMpaIAKSFcWd7kK23IKMkU26a3g8XbtjtVrE3rp49DQy\u002BlV6aGcZBtgehz5w8HNJ18Kn/khGNuQ1Bvc468oNgyBPXDfOTbEBtH944uTeWl4VY1mYjvcoWDd7u2Yqm20rOCpPoHUut\u002BoASwbT4gdTENY8Edabock8hdlej2j7rc/sc7y4aiO/Us/WPXwwJF8HN2HR8M9QHjH39UC81QPk80QcwouQHU12FZjc/ZynG\u002Bh4F3ZOcuCd/InBZxSo3W\u002BWPrlTnL/D\u002B4R4ZqqJjYrsEA\u002BvfCcibzUl9Tv5drgVR/9uNCzd1AceQJzihaO6BU="
 }

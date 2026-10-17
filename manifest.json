@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.4",
-  "MinVersion": "3.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.4/BarkodX_Setup_v3.3.4.msi",
-  "PackageSha256": "B73CD036CA531EC9A617359536FD967B065A271F1BC4D7E622AAB4851D0D59AE",
-  "PackageSizeBytes": 162749779,
-  "ReleaseDate": "2026-10-17T10:49:13.651554+00:00",
-  "ReleaseNotes": "Canli katalog senkronizasyonu (yeni urun, fiyat, ad, hizli tus aninda guncelleme), tablet musteri ekrani, el terminali fiyat/kamera/sayim gelistirmeleri, panel varyant ve mal kabul iyilestirmeleri.",
+  "Version": "3.3.5",
+  "MinVersion": "0.0.0",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.5/BarkodX_Setup_v3.3.5.msi",
+  "PackageSha256": "E1B51AAF8FE6B2A56AA374E6BCAEA8CAE776A7DF6750C8C2C8ADBEDDB63572F7",
+  "PackageSizeBytes": 162778451,
+  "ReleaseDate": "2026-10-17T11:57:02.3353103+00:00",
+  "ReleaseNotes": "Kasa acilisinda otomatik guncelleme kontrolu (Startup.Overlay)",
   "RequiresDbMigration": false,
-  "Signature": "yd6Hh4oBQgIliuVT5h\u002Be2GZ0g6RYuGjWWW/VZPUJEYy5CHw6DCF1OXLXZvoZ9Tbhn8ZnBj6v76t7XgOfZSt9nZStKCHNx8Vv6pS80H/OgWtTnxo50YDHcgt\u002BM3jm72rT2AmSMkNN2\u002Bz8kkpXF6k\u002BXQgRNk4vVoXDmUIcar2zCz3mYGf0fnacebWM43lioIB3rqrCc5UVnmzDRGyJR1FpYxwN7ppPMXfLS7MQQ8a9A5QEEWbDF0V6HoYqE1BQY9fUv38r9MhpnOxVOaR6aj2lYcAA98TjJ1e2\u002BU\u002BVadKoQh8sF93QTxINGEfV0Fbj0b8EfhrRQPDsBILK0P4EVNmb9xda5LR2lB79atgm/mx7rFfR1tMpaIAKSFcWd7kK23IKMkU26a3g8XbtjtVrE3rp49DQy\u002BlV6aGcZBtgehz5w8HNJ18Kn/khGNuQ1Bvc468oNgyBPXDfOTbEBtH944uTeWl4VY1mYjvcoWDd7u2Yqm20rOCpPoHUut\u002BoASwbT4gdTENY8Edabock8hdlej2j7rc/sc7y4aiO/Us/WPXwwJF8HN2HR8M9QHjH39UC81QPk80QcwouQHU12FZjc/ZynG\u002Bh4F3ZOcuCd/InBZxSo3W\u002BWPrlTnL/D\u002B4R4ZqqJjYrsEA\u002BvfCcibzUl9Tv5drgVR/9uNCzd1AceQJzihaO6BU="
+  "Signature": "S6OQR0A\u002BpTjAUT7qgIDuRcKZ4vdIsUgI8s7r414yN9iLz4qQgP/Kkg1tPNJweJrqH/iiOmO7Ljmv8/wySiMJjqqC0D2NBpEXCQLyheJmcAYCh78aIcIYZFW36zk4ju1rwDZ6C2MZGLkCNeyZOcmWjrT0T3rNGM5Gco\u002B/\u002B\u002B2h/So23E0h5s7Q1jLUwLzOZcuIRqJ4l6IIg2X0EJr4S9RjusnrqMdTquN0AqqeCEFLG2gefdNby3Ip2aUs8ZQJVIhXDbsb6gtdsunA\u002BeBA\u002BlQuuWdPppyEi3i2iimX4jb51x0UUKg8\u002BNAYJ/OvvWkLgiiwLuH4RFgy8puisS7GhavyTHiSwBzkRDIi9\u002B4ruy0rE0bNOPqk\u002BGNA/niX6JqklgyS2piv7QjWbEI2A8G7Mwv/iC6VCtJaUPmJsH88fHWeepEcRD62qYgivfc0NVd2RtJEBh\u002BcimGXhtqYYYjsZLTY0aLVXQPyg9hocw3t/hLdKc1sblM/xdwnIThB3hClfBLO1/oqxxyj3rOYeZjLGKr2vcJrvaoPnv4ApXOnpfL1ztqUlbADPfmcFZBxmEI3CATttUI5/t/u6jejgH4dRH7rNLoba8qgFfGC0PQ5wXY8lVzOW6q/FfIj/Hot4TstlWh1Xg\u002BZSAFvetSOGXTr15OY7TdgpbxoTi\u002B7hcVzKENQufw="
 }

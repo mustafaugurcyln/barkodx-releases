@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.6",
+  "Version": "3.3.7",
   "MinVersion": "0.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.6/BarkodX_Setup_v3.3.6.msi",
-  "PackageSha256": "27B2AFF0358FDF4E454366A9C3E040C23549F8F498926C391875AB7F5A4BD993",
-  "PackageSizeBytes": 162861158,
-  "ReleaseDate": "2026-10-17T13:14:29.2927524+00:00",
-  "ReleaseNotes": "M\u00FC\u015Fteri ekran\u0131 (2. monit\u00F6r / tablet) kurumsal WPF ikizi responsive tasar\u0131m\u0131 ile yenilendi.",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.7/BarkodX_Setup_v3.3.7.msi",
+  "PackageSha256": "80BF79DFE9DD9152F303DB4BF0B6642143C6612B98C3F0192F5EC3E37CB40830",
+  "PackageSizeBytes": 162812006,
+  "ReleaseDate": "2026-10-17T21:04:44.6404613+00:00",
+  "ReleaseNotes": "M\u00FC\u015Fteri ekran\u0131 (tablet/2. ekran) otonom kendi kendini onarma (self-healing, otomatik yeniden ba\u011Flanma ve F5\u0027siz kurtarma) yetene\u011Fi ile g\u00FC\u00E7lendirildi.",
   "RequiresDbMigration": false,
-  "Signature": "kNfxVTrczP9Qmx0qmeJdmZqGo9h9C3KeRpgc\u002Bg6A1J1OtIiIjmdU2Ut99I2Qsj3mApbZawG0\u002BwtREvbrllGFePZkha6beIXq2bf8ed\u002B3\u002Bqqt29swq\u002BsaU9f2BJkMhiG4QH3hhl26G0QCGjcPKoDK8XtbDqp9DFLLpL04oao52imqjWpMEqM1DCMQ8WXJurgSmFu5AdZDrgZjLBEK4m96XNGO6gkJ7LbQLfTdYMYjY82LOPVlMOLjPgW7UsnYRZhWDu4601spRDGg7bRmnFexmdSFxXyKQkKPFunykaaW1ryvylgbq67R/IMLUd6/DKrhdhtEhXoj9VAYJ4\u002BbBEPO4c7G/C35dsv5wPfRI7/850lh6bmne2rGjtUew/GLRMkgoy/l2V0/P2fWZwtFYRrGbj1tf7LQGNWq37v4s5ILV9\u002BN267s3Y33kz1jJNGyD8Bt\u002BY\u002Bpwntl1/DxDrJrI3UPOB4DbV1q9o5ndhg\u002BvFM\u002B4eFg0dYxQPBXC5WAPqAQ5CFh9//YNI\u002BXs2avSXBE9TWAhDht1t8hmwxn6oKLq6SFW7B7JmWh2SK3\u002BE2KsIak2jjxNkwpXrNRD4Tn44twutjkTkVdiCp\u002B81iyNRf7e9qbgSoxWZAboypk9E41wAzqI4wF3ZJGop85h846ilv0WB17k5UlkmNgCwVC1wVR7LqA74M="
+  "Signature": "EAdTkLuP9I8zNs1AYBULF7dO5gKcsllHfJw1l6ZdaMRavpAD8JVYxYdpz\u002BpD7HxsbgF5AHJzDiQ8xe5OsAPkIXlIm9C9IDYfgLFVPPQIDubqDUcFm/3nncplz2w7m4N6vs\u002BNQQ/6\u002BvunNwuz\u002BM2dESpW5VXWW77Gh8PV705YylZnpMQaKZ15C2tTCcmxSn0NFDGptQQE87ylIOiF5yApR1mWRfxmIP9udLSDIBZDYM0j9w68FRgvmBiEpY838oTtuI6w5JGVK8CxW7MlfM9orPuugFxBkS/UrzW1P7bfZ\u002BHnMvOYnGSotT7hImZ4ua2FwOdbEdoHBVDvUKZH6T0OwNl4cn8u6KjW5nBVK/iIm71HWaKSTWr1GkrJBgRAVw0z9EQeGSFTehnAFT\u002B6lTXHPqtWU2Yc1pnVZo2RBC/zzdNOsE3spO9aP7WDvuwO92bd9JvRXbdmWSJpYrmnoiXNyNzI9983NUYWjDX9okU8gKvafjH9nkZnViUB\u002BJF2ZiQRWpPs2Lf/r5R08QY6BZ6hvWFFDUCwepiYWtX207RFJLDdMANHeVaUKHf8PqYq609/GILoItv6z9wOv44kV14CCQ5MkcpYn57fG2covtEpIy2TjHo5Z1YgdIUSSbeKRmCuFyqTOC/oy3B7xfurxUIMjLH7EumsFicQ6j89gOM42RI="
 }

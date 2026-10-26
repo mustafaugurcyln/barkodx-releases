@@ -1,11 +1,11 @@
 {
-  "Version": "3.3.7",
+  "Version": "3.3.8",
   "MinVersion": "0.0.0",
-  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.7/BarkodX_Setup_v3.3.7.msi",
-  "PackageSha256": "80BF79DFE9DD9152F303DB4BF0B6642143C6612B98C3F0192F5EC3E37CB40830",
-  "PackageSizeBytes": 162812006,
-  "ReleaseDate": "2026-10-17T21:04:44.6404613+00:00",
-  "ReleaseNotes": "M\u00FC\u015Fteri ekran\u0131 (tablet/2. ekran) otonom kendi kendini onarma (self-healing, otomatik yeniden ba\u011Flanma ve F5\u0027siz kurtarma) yetene\u011Fi ile g\u00FC\u00E7lendirildi.",
+  "PackageUrl": "https://github.com/mustafaugurcyln/barkodx-releases/releases/download/v3.3.8/BarkodX_Setup_v3.3.8.msi",
+  "PackageSha256": "35204D20674E8F0216D74562C61437CD68CD91BE2CFB95CE372036A8AEC60BA0",
+  "PackageSizeBytes": 159623337,
+  "ReleaseDate": "2026-10-26T11:04:49.6398222+00:00",
+  "ReleaseNotes": "\u00DCr\u00FCn kart\u0131 i\u00E7i h\u0131zl\u0131 stok giri\u015Fi (\u002B Stok), sadele\u015Ftirilmi\u015F KDV dahil/hari\u00E7 fiyat d\u00FCzenleyici, A4 sayfa \u0131zgara ayarlar\u0131, el terminali say\u0131m/mal kabul liste kal\u0131c\u0131l\u0131\u011F\u0131 ve g\u00FCncelleyici g\u00FCvenlik s\u0131k\u0131la\u015Ft\u0131rmalar\u0131.",
   "RequiresDbMigration": false,
-  "Signature": "EAdTkLuP9I8zNs1AYBULF7dO5gKcsllHfJw1l6ZdaMRavpAD8JVYxYdpz\u002BpD7HxsbgF5AHJzDiQ8xe5OsAPkIXlIm9C9IDYfgLFVPPQIDubqDUcFm/3nncplz2w7m4N6vs\u002BNQQ/6\u002BvunNwuz\u002BM2dESpW5VXWW77Gh8PV705YylZnpMQaKZ15C2tTCcmxSn0NFDGptQQE87ylIOiF5yApR1mWRfxmIP9udLSDIBZDYM0j9w68FRgvmBiEpY838oTtuI6w5JGVK8CxW7MlfM9orPuugFxBkS/UrzW1P7bfZ\u002BHnMvOYnGSotT7hImZ4ua2FwOdbEdoHBVDvUKZH6T0OwNl4cn8u6KjW5nBVK/iIm71HWaKSTWr1GkrJBgRAVw0z9EQeGSFTehnAFT\u002B6lTXHPqtWU2Yc1pnVZo2RBC/zzdNOsE3spO9aP7WDvuwO92bd9JvRXbdmWSJpYrmnoiXNyNzI9983NUYWjDX9okU8gKvafjH9nkZnViUB\u002BJF2ZiQRWpPs2Lf/r5R08QY6BZ6hvWFFDUCwepiYWtX207RFJLDdMANHeVaUKHf8PqYq609/GILoItv6z9wOv44kV14CCQ5MkcpYn57fG2covtEpIy2TjHo5Z1YgdIUSSbeKRmCuFyqTOC/oy3B7xfurxUIMjLH7EumsFicQ6j89gOM42RI="
+  "Signature": "sWFR\u002B\u002BOvA3gtDZv1csyAvsie1QX1b/xwkH3MzvYDPmocwGqwkCL1CB4d8Hf4jLjE1IAFwRAolyub27sHuHGTs52Wg9rD49YgfqSNW6Duhm1hG1yCvCpjyhy7RJr6vdxcst\u002Byl1Imw4v0pKpaIrmtmTHDui9ELcSIJYsuMSjLqkt6jEAyjLKlwjUfLGx1kE2CkerxkWbTEKRbUAzacDm6tGd4RxitObQ/L0HNMGZ1GMruFzvNDBQ9J2Q7AriEsIsAYxE1Uy7fSaka1nQdRCdjO4b3/pUQvRiSLxfOJ4E7/\u002BLJZKq62waBhzHSIusVRHS39nXwIfN4P16rKVY79l5P2TwJQe4H8NTiuBm\u002BB0cf4d7rzW7kvhi12ldEu47utVEGBJnYim8EVSb4as/ddM0av\u002BrCZbS49TqaevXEyCqAcyjBO7V\u002BTlD8XTahjS8bEcPoSlOk1wM6U/jXBo7H97YFmljOup3j67VK15t6MPam\u002Bid2xLfug8yzt0ngQazAnXC3t5EHjx\u002B6Dc5ojJkPW/xsmhxl3zdmsfrEgMA7Qw9Gt6W/OqiSYQfAplkDIWP0fKBLhW2ewD8YkxFI8virpa4ijEkLhSxMUFxBdDbPgypUIYU\u002BJsyVlJT1f489M8bbEC0fHBV99owIK7CfBziGAqI55Ap04UA8qcmw\u002BaHMD\u002BM5a1M="
 }
